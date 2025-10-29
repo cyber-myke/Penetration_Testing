@@ -33,4 +33,4 @@ c) Vulnerabilities found
 d) Exploits achieved 
 e) Recommended mitigations and remediations
 
-[Download the completed project](https://github.com/cyber-myke/Penetration_Testing/raw/refs/heads/main/Project%204%20-%20Formal%20Pentest%20Accounting%20Server.pptx)
+[Download the completed project on Powerpoint](https://github.com/cyber-myke/Penetration_Testing/raw/refs/heads/main/Project%204%20-%20Formal%20Pentest%20Accounting%20Server.pptx)
